@@ -1,5 +1,6 @@
 # transfusionEfficacy
 
+It contains four python notebook files for cohort selection, feature extraction, and analysis on Emory and Grady hospital sites.
 
 ## RBC Transfusion Efficacy Marker
 
