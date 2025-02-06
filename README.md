@@ -7,7 +7,7 @@ It contains four python notebook files for cohort selection, feature extraction,
 In this study, we introduced $SpO_2/FiO_2$ (SF) ratio as a more suitable metric for evaluating RBC transfusion effectiveness in non-traumatic ICU patients with respiratory physiologic derangements. The SF ratio could be used along with hemoglobin for a better assessment. Delta SF measures the RBC transfusion efficicy.
 
 ### Figure: Baseline Hb vs del SF
-![Baseline Hb vs del SF](./delSFvsHb_RedCellsT_withCI.png)
+![Baseline Hb vs del SF](./DATA_RESULTS_REV1/delSFvsHb_RedCellsT_withCI.png)
 
 
 ### Figure: Transfusion efficacy trend with different baseline SFs
