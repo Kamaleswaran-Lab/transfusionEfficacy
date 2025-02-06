@@ -2,7 +2,7 @@
 
 ## [Still Under Development]
 
-It contains all the data four python notebook files for cohort selection, feature extraction, and analysis on Emory and Grady hospital sites.
+It contains all the data and four python notebook files for cohort selection, feature extraction, and analysis on Emory and Grady hospital sites.
 
 ## RBC Transfusion Efficacy Marker
 
