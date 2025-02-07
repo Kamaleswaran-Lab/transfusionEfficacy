@@ -13,7 +13,7 @@ It contains all the data and five python notebook files for cohort selection, fe
 
 ## RBC Transfusion Efficacy Marker
 
-In this study, we introduced $SpO_2/FiO_2$ (SF) ratio as a more suitable metric for evaluating RBC transfusion effectiveness in non-traumatic ICU patients with respiratory physiologic derangements. The SF ratio could be used along with hemoglobin for a better assessment. ΔSF measures the RBC transfusion efficicy.
+In this study, we introduced $SpO_2/FiO_2$ (SF) ratio as a more suitable metric for evaluating RBC transfusion effectiveness in non-traumatic ICU patients with respiratory physiologic derangements. The SF ratio could be used along with hemoglobin for a better assessment. ΔSF measures the RBC transfusion efficacy.
 
 ### Figure: Baseline Hb vs ΔSF for derivation data
 Derivation data: Localized study on patients having different ranges of baseline SF ratios. ΔSF vs baseline Hb for three consecutive post-transfusion regions (each of duration 9 hours) with baseline SF range [row-1] 1-143, [row-2] 144-235, [row-3] 236-315, and [row-4] >315. Note that data-points denote the distribution of patients. Red vertical line with blueish filled region around it represents the mean ± standard deviation of the SF difference.
