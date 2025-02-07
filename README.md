@@ -1,7 +1,15 @@
 # transfusionEfficacy 
 
 
-It contains all the data and four python notebook files for cohort selection, feature extraction, and analysis on hospital sites: Emory University Hospital (as derivation) and Grady Memorial Hospital (as validation). 
+It contains all the data and five python notebook files for cohort selection, feature extraction, and analysis on hospital sites: Emory University Hospital (as derivation) and Grady Memorial Hospital (as validation). 
+
+- Derivation study notebooks: (a) [All_EMORYpatients_transfusion_ver3.ipynb](./All_EMORYpatients_transfusion_ver3.ipynb), (b) [Relation_EMORY_Hb_delSF_delHb_ver3_rev1.ipynb](./Relation_EMORY_Hb_delSF_delHb_ver3_rev1.ipynb)
+
+- Validation study notebooks: (c) [All_GRADYpatients_transfusion_ver3.ipynb](./All_GRADYpatients_transfusion_ver3.ipynb), (d) [Relation_GRADY_Hb_delSF_delHb_ver3_rev1.ipynb](./Relation_GRADY_Hb_delSF_delHb_ver3_rev1.ipynb)
+
+- Generation of characteristic tables: (e) [TableOneGeneration_emory_grady.ipynb](./TableOneGeneration_emory_grady.ipynb)
+
+- Results data can be found under this folder: [DATA_RESULTS_REV1](./DATA_RESULTS_REV1)
 
 ## RBC Transfusion Efficacy Marker
 
