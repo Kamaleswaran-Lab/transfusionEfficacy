@@ -13,6 +13,7 @@ In this study, we introduced $SpO_2/FiO_2$ (SF) ratio as a more suitable metric 
 
 
 ### Figure: Transfusion efficacy trend with different baseline SFs
-![Transfusion efficacy trend with different baseline SFs](./emory_Tefficacy.png)
+Relationship between baseline SF (BSF) and transfusion efficacy (ΔSF). Resultant mean curve (solid red) and its 95% confidence interval (shaded red region) modelled with a cubic-polynomial curve fitting demonstrates an inverse relationship of BSF and delta SF. Modeling parameters of mean fitted curve are as follows: -0.000002, 0.0031, -1.28, 168.5.
 
+![Transfusion efficacy trend with different baseline SFs](.DATA_RESULTS_REV1/emory_Tefficacy.png)
 
