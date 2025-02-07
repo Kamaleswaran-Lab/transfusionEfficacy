@@ -13,6 +13,6 @@ In this study, we introduced $SpO_2/FiO_2$ (SF) ratio as a more suitable metric 
 
 
 ### Figure: Transfusion efficacy trend with different baseline SFs
-![Transfusion efficacy trend with different baseline SFs](./efficacy_graph.png)
+![Transfusion efficacy trend with different baseline SFs](./emory_Tefficacy.png)
 
 
